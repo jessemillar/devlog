@@ -1,65 +1,35 @@
-title:            Jesse Millar
-tagline:          Devlog
-description:      Describe your website.
-canonical: https://jessemillar.com/devlog
+# Site settings
+title:          Tale
+description:    "Minimal Jekyll theme for storytellers"
+baseurl:        "/tale"
+url:            "https://chesterhow.github.io"
 
-# Owner/author information
-owner:
-  name:           Jesse Millar
-  avatar:         http://gravatar.com/avatar/3b035bb42f7d63b407e996171bb53e2e?s=200
-  bio:            "Aesthete & Athlete"
-  email:          hellojessemillar@gmail.com
-  twitter:        jessemillar
-  github:         jessemillar
-  instagram:      ctrunsthis
-  dribbble:       jessemillar
-  disqus:
-  location:       "Rogers, AR"
+# Google Analytics
+google_analytics: UA—XXXXXXXX-X
 
-tools:
-  standards:      "HTML, SCSS, Jekyll"
-  software:       "git"
+# Author
+author:
+  name:         Chester How
+  url:          https://chester.how
+  email:        chesterhow@gmail.com
 
-# Open Graph customization
-opengraph:
-  locale:           en_US
+# Build settings
+markdown:       kramdown
+include:
+  - _pages
 
-# Links to include in top navigation
-# For external links add external: true
-links:
-  - title: About
-    url: /about
-  - title: itch.io
-    url: https://jessemillar.itch.io/
-    external: true
-
-url: "/devlog"
-
-# http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-timezone:    America/New_York
-future:      true
-highlighter: rouge
-markdown:    kramdown
-
-kramdown:
-  auto_ids: true
-  footnote_nr: 1
-  entity_output: as_char
-  toc_levels: 1..6
-  use_coderay: false
-
-  coderay:
-    coderay_line_numbers:
-    coderay_line_numbers_start: 1
-    coderay_tab_width: 4
-    coderay_bold_every: 10
-    coderay_css: class
-
+# Assets
 sass:
-    style: :compressed
+  sass_dir:     _sass
+  style:        compressed
 
-# https://github.com/mojombo/jekyll/wiki/Permalinks
-permalink:   /:title
+# Gems
+plugins:
+  - jekyll-feed
+  - jekyll-paginate
+  - jekyll-seo-tag
+  # - jemoji #Uncomment this to allow emoji in your post
 
-include: [".htaccess"]
-exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp"]
+# Permalinks
+permalink:      /:year-:month-:day/:title
+paginate:       5
