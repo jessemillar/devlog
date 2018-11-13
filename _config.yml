@@ -13,13 +13,13 @@ avatar: http://gravatar.com/avatar/3b035bb42f7d63b407e996171bb53e2e?s=200
 
 # Includes an icon in the footer for each username you enter
 footer-links:
-  dribbble:
-  email:
+  dribbble: jessemillar
+  email: hellojessemillar@gmail.com
   facebook:
   flickr:
   github: jessemillar
   instagram:
-  linkedin:
+  linkedin: jessemillar
   pinterest:
   rss: # just type anything here for a working RSS icon
   twitter: jessemillar
@@ -33,7 +33,7 @@ footer-links:
 disqus:
 
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
-google_analytics:
+google_analytics: UA-56479946-1
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
