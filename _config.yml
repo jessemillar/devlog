@@ -1,11 +1,11 @@
 title:            Jesse Millar
 tagline:          Devlog
 description:      Describe your website.
-canonical: http://jekyll.gtat.me
+canonical: https://jessemillar.com/devlog
 
 # Owner/author information
 owner:
-  name:           Cole Townsend
+  name:           Jesse Millar
   avatar:         http://gravatar.com/avatar/3b035bb42f7d63b407e996171bb53e2e?s=200
   bio:            "Aesthete & Athlete"
   email:          hellojessemillar@gmail.com
@@ -13,9 +13,8 @@ owner:
   github:         jessemillar
   instagram:      ctrunsthis
   dribbble:       jessemillar
-  disqus:         balzac
+  disqus:
   location:       "Rogers, AR"
-  # Plug in your disqus shortname!
 
 tools:
   standards:      "HTML, SCSS, Jekyll"
@@ -30,11 +29,8 @@ opengraph:
 links:
   - title: About
     url: /about
-  - title: Github
-    url: https://github.com/ColeTownsend/Balzac-for-Jekyll
-    external: true
-  - title: Cole Who?
-    url: http://coletownsend.com
+  - title: itch.io
+    url: https://jessemillar.itch.io/
     external: true
 
 url: "/devlog"
@@ -63,7 +59,7 @@ sass:
     style: :compressed
 
 # https://github.com/mojombo/jekyll/wiki/Permalinks
-permalink:   /:categories/:title
+permalink:   /:title
 
 include: [".htaccess"]
 exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp"]
