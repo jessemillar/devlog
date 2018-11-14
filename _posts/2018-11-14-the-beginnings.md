@@ -4,8 +4,6 @@ title: "The Beginnings"
 author: "Jesse Millar"
 ---
 
-[Provide appropriate links]
-
 This isn't quite the beginning for this project.
 
 December 1, 2016 was actually my first commit to this project's repository.
@@ -14,9 +12,9 @@ I wanna take game dev more seriously because I've been missing having a creative
 
 ![Penguin Punchers Logo]({{site.baseurl}}/images/penguin-punchers-logo.png)
 
-Originally, The Staff of Lewis was being written in PICO-8. The vision for the project outgrew the limitations of the PICO-8 fantasy console. With this latest creative push, I've moved to the LÖVE game engine. LÖVE has been great so far. I love having access to community libraries like Hump and Bump [check spelling]. PICO-8 exists to be minimal which largely results in hand-written "libraries" specific to each game. The few projects I've made in PICO-8 were super fun to build but took a long while because I had to build from scratch. LÖVE has helped me move quicker. I've managed to port most of the previous functionality from the PICO-8 version of The Staff of Lewis to LÖVE in less than a month with cleaner code to boot.
+Originally, The Staff of Lewis was being written in [PICO-8](https://www.lexaloffle.com/pico-8.php). The vision for the project outgrew the limitations of the PICO-8 fantasy console. With this latest creative push, I've moved to the [LÖVE](https://love2d.org/) game engine. LÖVE has been great so far. I love having access to community libraries like [hump](https://hump.readthedocs.io/en/latest/index.html) and [Bump](https://github.com/oniietzschan/bump-3dpd). PICO-8 exists to be minimal which largely results in hand-written "libraries" specific to each game. The few projects I've made in PICO-8 were super fun to build but took a long while because I had to build from scratch. LÖVE has helped me move quicker. I've managed to port most of the previous functionality from the PICO-8 version of The Staff of Lewis to LÖVE in less than a month with cleaner code to boot.
 
-My plan is to have this game finished by March [pick specific date] with weekly (potentially bi-weekly) devlog update posts.
+My plan is to have this game finished by April 1st, 2019 (no, this isn't an April Fool's joke) with weekly devlog update posts between now and then.
 
 I want to publish a larger-than-PICO-8 game but also fight feature creep so the three month deadline is attainable.
 
