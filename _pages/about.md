@@ -13,4 +13,4 @@ Games are art.
 
 This devlog is my scratch pad. I'm going to chronicle my game dev experiences here on a weekly basis as I attempt to create my own art both to keep myself accountable and to hopefully inspire someone somewhere to start making games. Any and all games that I release will be available on [my itch.io page](https://jessemillar.itch.io). I'll also announce each release and any breakthroughs on [my Twitter feed](https://twitter.com/jessemillar).
 
-Huge thanks to my wife, [Stephanie Millar](https://twitter.com/stephiemillar) for supporting me and giving me some fantastically creative ideas for games and stories. She is and always will be my greatest inspiration.
+Huge thanks to my wife, [Stephanie Millar](https://twitter.com/stephiemillar) for supporting me and giving me fantastically creative ideas for games and stories. She is and always will be my greatest inspiration.
