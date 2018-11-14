@@ -9,7 +9,7 @@ I've been feeling somewhat restless of late because I haven't been cranking out 
 
 In the last few weeks, I've [finished up and formally released](https://jessemillar.itch.io/) three of my older game projects. Now that that's taken care of, I can start with a clean slate on on my next game: "The Staff of Lewis".
 
-"The Staff of Lewis" is a beat-em-up video game starring some of the fictional, larger-than-life characters [my wife](https://twitter.com/stephiemillar) and I have created together over the years. Lewis is an owl with a crazy side. He fancies himself a bit of a sorcerer and is quite upset when his magical staff is stolen so he sets out on a journey through multiple video games to reclaim his possession and show off his mastery of his favorite fighting games. "The Staff of Lewis"
+"The Staff of Lewis" is a beat-em-up video game starring some of the fictional, larger-than-life characters [my wife](https://twitter.com/stephiemillar) and I have created together over the years. Lewis is an owl with a crazy side. He fancies himself a bit of a sorcerer and is quite upset when his magical staff is stolen so he sets out on a journey through multiple video games to reclaim his possession and show off his mastery of his favorite fighting games. "The Staff of Lewis" starts inside a fictional game called "Penguin Punchers". Lewis got himself and his buddy [Pablo](https://jessemillar.itch.io/crates) stuck in the game and now they have to fight their way to freedom.
 
 ![Penguin Punchers Logo]({{site.baseurl}}/images/penguin-punchers-logo.png)
 
