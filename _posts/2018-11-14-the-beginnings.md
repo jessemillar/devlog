@@ -12,7 +12,7 @@ December 1, 2016 was actually my first commit to this project's repository.
 
 I wanna take game dev more seriously because I've been missing having a creative outlet.
 
-![Penguin Punchers Logo]({{site.url}}/images/penguin-punchers-logo.png)
+![Penguin Punchers Logo]({{site.baseurl}}/images/penguin-punchers-logo.png)
 
 Originally, The Staff of Lewis was being written in PICO-8. The vision for the project outgrew the limitations of the PICO-8 fantasy console. With this latest creative push, I've moved to the LÖVE game engine. LÖVE has been great so far. I love having access to community libraries like Hump and Bump [check spelling]. PICO-8 exists to be minimal which largely results in hand-written "libraries" specific to each game. The few projects I've made in PICO-8 were super fun to build but took a long while because I had to build from scratch. LÖVE has helped me move quicker. I've managed to port most of the previous functionality from the PICO-8 version of The Staff of Lewis to LÖVE in less than a month with cleaner code to boot.
 
