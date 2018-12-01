@@ -25,9 +25,9 @@ Next tasks:
 1. Make the outline shader capable of tinting sprites red when objects are punched/damaged
     - There may be an easy way to do this, but I might try actually tweaking the shader code to learn more about shaders
 1. Finish making the skelly smarter
-    - He currently 
+    - He's still not the best at aiming
 1. Add some attacks to Lewis so local co-op can be playtested
-    - He's gonna be able to punch and throw bombs
+    - He's gonna be able to punch and throw bombs (WITH SCREENSHAKEEEEEE)
 1. Experiment with button combinations
     - I want a sky pound attack at the very least
 
