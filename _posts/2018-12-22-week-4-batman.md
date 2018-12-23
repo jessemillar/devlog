@@ -23,7 +23,7 @@ This week's spoils:
 1. Fixed a large number of bugs.
     - There were a lot of issues with how bounding boxes were handled. I had the coordinate system flipped in a weird way and that caused issues when I was spawning invisible bounding boxes for bomb explosions. Found the issues and squashed 'em.
 1. Documentation.
-    - I've been making a concerted effort to riddle my code with comments so future me isn't confused by how past me coded things. Feels good.
+    - I've been making a concerted effort to riddle my code with comments and `README.md` files so future me isn't confused by how past me coded things. Feels good.
 
 Plans for this next week:
 1. Make skellies a bit more dangerous.
