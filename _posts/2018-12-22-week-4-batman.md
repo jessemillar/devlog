@@ -5,7 +5,7 @@ author: "Jesse Millar"
 published: true
 ---
 
-Whew! This week had a lot of progress! Most notably, Lewis is now a fully playable character with animations, kicks, and bombs that explode (with a hand-drawn explosion animation), create jelly giblets, and shake the camera. Also, healthbars are a thing and they look pretty darn sexy is I do say so myself. Take a gander!
+Whew! This week had a lot of progress! Most notably, Lewis is now a fully playable character with animations, kicks, and bombs that explode (with a hand-drawn explosion animation), create jelly giblets, and shake the camera. Also, healthbars are a thing and they look pretty darn sexy if I do say so myself. Take a gander!
 
 ![*The Staff of Lewis* Week 4 Overview GIF]({{site.baseurl}}/images/staff-of-lewis-week-4-overview.gif)
 
