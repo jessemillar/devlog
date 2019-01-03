@@ -5,7 +5,7 @@ author: "Jesse Millar"
 published: true
 ---
 
-Alright. Full disclosure time. This last week and a half or so hasn't been super productive for *The Staff of Lewis*. My parents surprised my wife and me with Nintendo Switches for Christmas and they've done a fantastic job of distracting me from pretty much anything that's not [*Pokémon: Let's Go, Eevee!*](https://twitter.com/jessemillar/status/1080642036221411329). Thankfully, I did make some progress, it's just not amazingly exciting progress.
+Alright. Full disclosure time. This last week and a half or so hasn't been super productive for *The Staff of Lewis*. My parents surprised my wife and me with Nintendo Switches for Christmas and they've done a fantastic job of distracting me from pretty much anything that's not [*Pokémon: Let's Go, Eevee!*](https://twitter.com/jessemillar/status/1080642036221411329) or *Just Dance 2019*. Thankfully, I did make some progress, it's just not amazingly exciting progress.
 
 ![*The Staff of Lewis* Week 5 Overview GIF]({{site.baseurl}}/images/staff-of-lewis-week-5-overview.gif)
 
