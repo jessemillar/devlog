@@ -2,7 +2,7 @@
 layout: post
 title: "Week 6 Feeling Better"
 author: "Jesse Millar"
-published: false
+published: true
 ---
 
 Aw, heck. I didn't realize it'd been two whole weeks since my last post. My bad. At least I have a lot to show for the time!
