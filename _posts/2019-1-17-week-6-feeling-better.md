@@ -14,7 +14,7 @@ Progress this "week" (okay, it's been two weeks):
     - Allows P1 to play as either playable character or for a second player to jump in and play as whoever P1 isn't playing as.
     - It should be modular enough to allow the addition of more playable characters without having to redo everything.
 1. Ripped out outline shader
-    - I have some currently-being-drawn sprites that need outlines only on a portion of the sprite instead of all the way around. I don't foresee myself having outlines drawn through barriers (e.g. a wall in front of your character but you can still "see" your character through the wall via its outline) so it felt like wasted CPU cycles.
+    - I have some currently-being-drawn sprites that need outlines only on a portion of the sprite instead of all the way around. I don't foresee myself having outlines drawn through barriers (e.g. a wall in front of your character but you can still "see" your character through the wall via its outline) so having a shader dedicated to pixel outlines felt like wasted CPU cycles.
 1. Fleshed out tilemap graphics
     - I learned more about Tiled terrain setup so now I have grass, dirt, water, and stone that can be drawn with Tiled terrain brushes.
 1. Entities can be placed via the tilemap
@@ -22,7 +22,7 @@ Progress this "week" (okay, it's been two weeks):
 1. Moved from using [`hump.camera`](https://hump.readthedocs.io/en/latest/camera.html) to [`gamera`](https://github.com/kikito/gamera)
     - This move allowed for easier camera movement that follows the player(s) and is constrained to the size of the level.
 1. Enemies intelligently select targets now
-    - This means that enemies don't infinitely stand over the dead corpse of a player character. They'll pick a new player once they kill their current target.
+    - This means that enemies don't infinitely stand over the dead corpse of a player character. They'll pick a new player to stalk once they kill their current target.
 1. Added small healthbars above enemies
     - This really improves the quality of life of the player because it makes you feel like your attacks actually matter instead of just being soaked up by a mob.
 1. Objects are constrained to the visible screen now
