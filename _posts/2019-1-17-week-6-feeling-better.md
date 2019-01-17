@@ -9,7 +9,7 @@ Aw, heck. I didn't realize it'd been two whole weeks since my last post. My bad.
 
 ![*The Staff of Lewis* Week 6 Overview GIF]({{site.baseurl}}/images/staff-of-lewis-week-6-overview.gif)
 
-This week:
+Progress this "week" (okay, it's been two weeks):
 1. Working character select screen
     - Allows P1 to play as either playable character or for a second player to jump in and play as whoever P1 isn't playing as.
     - It should be modular enough to allow the addition of more playable characters without having to redo everything.
@@ -28,10 +28,14 @@ This week:
 1. Objects are constrained to the visible screen now
     - No more running into the abyss!
 
-Next week:
+Next goals:
 1. I'm trying to figure out what classifies as a minimum viable product (MVP) so I can start having some people playtest. The problem is that I keep thinking of new features that I want to have in the MVP which is pretty much the opposite of [what an MVP should be](https://www.youtube.com/watch?v=z06QR-tz1_o).
     - There's a chance that I'll add more destructible objects to the first playable level because breaking things feels pretty good.
 1. Finish the tombstone skelly spawner
 1. Make skellies able to throw diagonally
 1. Tweak Lewis to make bombs more fair
     - It feels like he can do too much damage too quickly
+
+I've been watching a lot of the [Extra Credits](https://www.youtube.com/user/ExtraCreditz/videos?app=desktop) YouTube series lately to brush up on some gamedev topics. If you've never given Extra Credits some time, give it a shot! It's very educational and entertaining even for people that aren't developing games.
+
+<iframe src="https://open.spotify.com/embed/track/3KkXRkHbMCARz0aVfEt68P" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
