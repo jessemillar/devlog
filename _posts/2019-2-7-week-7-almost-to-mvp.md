@@ -2,7 +2,7 @@
 layout: post
 title: "Week 7 Almost to MVP!"
 author: "Jesse Millar"
-published: false
+published: true
 ---
 
 It's been three weeks since my last post. In the interest of full disclosure, I've had enough content for a new post for the last two weeks. I put off writing this installment because it was just too darn tempting to keep pushing because I'm THIS CLOSE to a working MVP. I've decided it's finally time to publish a new post even though the MVP isn't quite ready. Hopefully there'll be a demo next week!
@@ -10,6 +10,8 @@ It's been three weeks since my last post. In the interest of full disclosure, I'
 ![*The Staff of Lewis* Week 7 Overview GIF]({{site.baseurl}}/images/staff-of-lewis-week-7-overview.gif)
 
 Recent progress:
+1. Players and certain enemies now flash when they get hurt
+    - While entities are flashing, they can't be hurt which helps players get out of tough situations and makes enemies harder to deal with
 1. Added a `Tombstone` `Skelly` spawner because there needs to be a mini boss for the first level and a tombstone that spawns skeletons was "easier" to implement, feels cool, and helps set the mood of the game
     - As part of that, I drew up a sweet (but rough) spawn animation that I look forward to polishing
 1. Enemies notice you when you get close enough
