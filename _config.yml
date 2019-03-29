@@ -1,6 +1,6 @@
 # Site settings
-title:          Jesse Millar
-description:    "Devlog"
+title:          Jesse Millar's Devlog
+description:    "A devlog for Jesse Millar's gamedev adventures"
 baseurl:        "/devlog"
 url:            "https://jessemillar.github.io"
 
