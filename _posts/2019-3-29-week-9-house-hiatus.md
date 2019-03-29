@@ -14,9 +14,16 @@ Getting back to *The Staff of Lewis*, here's a gameplay GIF with some of the rec
 ![*The Staff of Lewis* Week 9 Overview GIF]({{site.baseurl}}/images/staff-of-lewis-week-9-overview.gif)
 
 Recent progress:
-1. 
+1. Added chickens
+1. Added flowers
+1. Added Flint (a new playable character) to the character select screen
+1. Tweaked the keyboard input code so menus can have debounced input
+    - Meaning you can move one-by-one through menu options instead of shooting from the leftmost to the rightmost option
 
 Next goals:
-1. 
+1. Finish making Flint playable
+1. Finish world 1-1
+    - This means I need to finish the game dialogue for world 1-1
+1. Have people playtest world 1-1
 
 <iframe src="https://open.spotify.com/embed/track/4y3OI86AEP6PQoDE6olYhO" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
