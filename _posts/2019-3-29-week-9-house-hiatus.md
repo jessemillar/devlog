@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Week 9 Hiatus"
+title: "Week 9 House Hiatus"
 author: "Jesse Millar"
 published: false
 ---
